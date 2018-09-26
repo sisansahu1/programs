@@ -20,12 +20,8 @@ int main() {
 				else
 				{
 				    for(j=0;j<i;j++)
-				{
 					if(num==a[j])
-					{
-						count++;
-					}
-	
+					count++;
 				}
 				if(count==0)
 				{
