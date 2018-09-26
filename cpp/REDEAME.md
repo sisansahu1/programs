@@ -3,15 +3,15 @@ Rotate a matrix by 90 degree :
 The matrix   
 -----------------------------------------------------
 	
-	Before 90 degre rotate :	1  2  3	     
+	Before 90 degre rotate :			1  2  3	     
 				                   	4  5  6	
 				                  	7  8  9
 
 -----------------------------------------------------    
 
-	After 90 degree rotate :	3  4  9
+	After 90 degree rotate :			3  4  9
 				                  	2  5  8
-					                  1  4  7
+					                1  4  7
 
 ------------------------------------------------------
 
